@@ -1,0 +1,23 @@
+Option 1: Commit Everything (Easy Way)
+
+If you want to:
+
+Accept deletion of main.py
+
+Add new file hari
+
+Run:
+
+git add .
+git commit -m "Improved project structure"
+git push
+
+
+✅ This will stage all changes.
+
+🔥 Option 2: Stage Separately (Professional Way)
+
+If you want more control:
+
+Stage deletion:
+git add main.py
