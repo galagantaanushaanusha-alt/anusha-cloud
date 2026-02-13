@@ -1,3 +1,0 @@
-print "anusha"
-hello ("world")
-
